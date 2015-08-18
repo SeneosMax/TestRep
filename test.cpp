@@ -15,7 +15,7 @@ TEST(TestCaseCI1, TestThree){
 
 TEST(TestCaseCI1, TestFour){
 	ASSERT_EQ(2, toTest2(6,4));
-	ASSERT_EQ(3, toTest2(3,4));
+	ASSERT_EQ(3, toTest2(7,4));
 }
 
 int main(int argc, char **argv) {
